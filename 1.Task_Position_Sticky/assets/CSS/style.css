@@ -1,0 +1,27 @@
+*{
+    margin: 5px;
+}
+
+.container{
+    height: 250vh;
+
+}
+.container .box-head{
+   position: sticky;
+    background-color: gray;
+    top:0;
+}
+
+.container .box-head{
+    color: white;
+    font-size: 25px;
+}
+
+.container .title span{
+    display: block;
+    font-size: 22px;
+}
+
+.container .title{
+    padding: 5px 35px ;
+}
